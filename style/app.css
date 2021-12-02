@@ -200,7 +200,7 @@
 #ws_callflow .tools .active .open,
 .callflow-preview .tools .active .open {
 	background-image: url(static/images/arrow_active.png);
-	color: #22A5FF;
+	color: #2b96bd;
 }
 
 #ws_callflow .tools .inactive .open,
@@ -223,7 +223,7 @@
 #ws_callflow .destination,
 .callflow-preview .destination {
 	border-radius: 2px;
-	border: 3px solid #22A5FF;
+	border: 3px solid #2b96bd;
 }
 
 #ws_callflow .tools .tool .action,
@@ -383,7 +383,7 @@
 }
 
 .callflow-preview .details a {
-	color: #22A5FF;
+	color: #2b96bd;
 }
 
 .callflow-preview * {
@@ -536,7 +536,7 @@
 
 #ws_callflow #callflow_header #pending_change span,
 .callflow-preview #callflow_header #pending_change span {
-	color: #22A5FF;
+	color: #2b96bd;
 	font-weight: lighter;
 	font-style: italic;
 }
@@ -580,7 +580,7 @@
 .callflow-preview .node.active {
 	background-color: #fff;
 	border-radius: 2px;
-	border: 3px solid #22A5FF;
+	border: 3px solid #2b96bd;
 }
 
 #ws_callflow .node.inactive,
@@ -818,12 +818,12 @@
 
 #callflow_container .left-bar-container .list-add:hover {
 	background: #ccc;
-	/*color: #22a5ff;*/
+	/*color: #2b96bd;*/
 	cursor: pointer;
 }
 
 #callflow_container .left-bar-container .list-add:hover i {
-	/*color: #22a5ff;*/
+	/*color: #2b96bd;*/
 }
 
 #callflow_container .left-bar-container .list-loader {
@@ -852,7 +852,7 @@
 #callflow_container .left-bar-container .list-element > div:hover {
 	background: #eee;
 	cursor: pointer;
-	/*color: #22a5ff;*/
+	/*color: #2b96bd;*/
 }
 
 #callflow_container .left-bar-container .search-link {
@@ -880,7 +880,7 @@
 }
 
 #callflow_container .left-bar-container .search-link .search-reset {
-	color: #22a5ff;
+	color: #2b96bd;
 	line-height: 30px;
 	font-weight: 600;
 }
@@ -965,7 +965,7 @@
 	width: 100%;
 	text-align: right;
 	text-decoration: underline;
-	color: #22A5FF;
+	color: #2b96bd;
 	margin-top: 3px;
 }
 
@@ -1058,7 +1058,7 @@
 .callflows-port h3,
 .callflows-port h4,
 .callflows-port h5 {
-	color:#22A5FF;
+	color:#2b96bd;
 	font-weight:lighter;
 }
 
@@ -1158,7 +1158,7 @@
 	filter:progid:dximagetransform.microsoft.gradient(startColorstr='#373737', endColorstr='#2f2f2f', GradientType=0);
 	color: #EEE;
 	padding:30px;
-	border:1px solid #22A5FF;
+	border:1px solid #2b96bd;
 	box-shadow:1px 2px 5px 0px #363636;
 	-moz-box-shadow:4px 5px 10px 1px #262626;
 	-webkit-box-shadow:4px 5px 10px 1px #262626;
@@ -1438,7 +1438,7 @@
 }
 
 .callflows-port .tabs > li:first-child.active {
-	border-left:1px solid #22A5FF;
+	border-left:1px solid #2b96bd;
 }
 
 .callflows-port .tabs > li:last-child.active {
@@ -1462,11 +1462,11 @@
 	color:#fff;
 	background:#373737;
 	border-top:1px solid;
-	border-top-color:#22A5FF;
+	border-top-color:#2b96bd;
 	border-left:1px solid;
-	border-left-color:#22A5FF;
+	border-left-color:#2b96bd;
 	border-right:1px solid;
-	border-right-color:#22A5FF;
+	border-right-color:#2b96bd;
 	font-weight:bold;
 	text-decoration: none;
 }
@@ -1485,13 +1485,13 @@
 	padding-bottom: 10px;
 	border: 1px solid #363636;
 	border-radius: 2px 2px 2px 2px;
-	background: #22A5FF;
-	background: -webkit-gradient(linear, left top, left bottom, from(#22A5FF), to(#036884)) !important;
-	background: -moz-linear-gradient(top,  #22A5FF,  #036884) !important;
+	background: #2b96bd;
+	background: -webkit-gradient(linear, left top, left bottom, from(#2b96bd), to(#036884)) !important;
+	background: -moz-linear-gradient(top,  #2b96bd,  #036884) !important;
 	box-shadow: 1px 1px 1px #333333;
 	text-align: center;
 	font-style: italic;
-	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#22A5FF', endColorstr='#036884') !important;
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#2b96bd', endColorstr='#036884') !important;
 }
 
 /********** Misc images **********/
@@ -1589,7 +1589,7 @@
 	border-bottom: solid 1px #999;
 }
 #callflow_container .entity-header .entity-title {
-	color: #22a5ff;
+	color: #2b96bd;
 	font-size: 30px;
 	line-height: 36px;
 	float:left;
@@ -1606,7 +1606,7 @@
 }
 
 #callflow_container .entity-header .superadmin-mode .switch-title {
-	color: #22a5ff;
+	color: #2b96bd;
 	margin-right: 5px;
 }
 
